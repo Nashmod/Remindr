@@ -1,4 +1,4 @@
-package com.remindr;
+package com.obsidianlab.remindr;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;

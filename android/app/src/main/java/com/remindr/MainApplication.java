@@ -1,4 +1,4 @@
-package com.remindr;
+package com.obsidianlab.remindr;
 
 import android.app.Application;
 import com.facebook.react.PackageList;
